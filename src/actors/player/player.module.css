@@ -1,0 +1,9 @@
+.player {
+    width: 5vh;
+    height: 5vh;
+    min-height: 50px;
+    min-width: 50px;
+    border-radius: 100%;
+    background-color: magenta;
+    position: fixed;
+}
