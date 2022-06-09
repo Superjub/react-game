@@ -1,0 +1,18 @@
+.gameplay {
+
+}
+
+.gameplay__score {
+    position: fixed;
+    top: .2rem;
+    left: .2rem;
+    z-index: 10;
+    pointer-events: none;
+}
+
+.gameplay__svg {
+    /* border: 1px solid red; */
+    position: fixed;
+    top: 25px;
+    left: 25px;
+}
